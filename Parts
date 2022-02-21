@@ -1,0 +1,10 @@
+ESP32S
+
+requirements:
+
+-Barometic Pressure Sensor
+-Temprature Sensor / accelerometer
+-RF
+-LEDs
+-GPIO (serial for GPS)
+
